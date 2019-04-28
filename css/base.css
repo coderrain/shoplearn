@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+	list-style: none;
+	font-weight: normal;
+	font-style: normal;
+	border:0;
+}
+a{
+	color: #333;
+}
+body{
+	padding-bottom: 100px;
+}
+
