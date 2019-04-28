@@ -1,6 +1,9 @@
 # 获取商品练习项目
 `前提需要安装nodejs运行本项目`
 
+## 效果展示
+<img src="./img/111.png">
+
 ## 安装依赖
 ```
 npm install
